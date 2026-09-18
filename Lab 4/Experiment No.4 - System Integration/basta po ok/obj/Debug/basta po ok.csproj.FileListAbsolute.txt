@@ -1,0 +1,11 @@
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\bin\Debug\basta po ok.exe.config
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\bin\Debug\basta po ok.exe
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\bin\Debug\basta po ok.pdb
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\obj\Debug\basta po ok.csproj.AssemblyReference.cache
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\obj\Debug\basta_po_ok.Form1.resources
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\obj\Debug\basta_po_ok.Properties.Resources.resources
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\obj\Debug\basta po ok.csproj.GenerateResource.cache
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\obj\Debug\basta po ok.csproj.CoreCompileInputs.cache
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\obj\Debug\basta po ok.exe
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\obj\Debug\basta po ok.pdb
+C:\Users\Allyza\source\repos\basta po ok\basta po ok\obj\Debug\basta po ok.exe.config
