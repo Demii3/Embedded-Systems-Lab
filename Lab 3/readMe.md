@@ -1,1 +1,3 @@
-Repository for codes created in Lab 3
+# Project Title (Largest)
+## Features (Medium)
+### Setup Instructions (Small)
