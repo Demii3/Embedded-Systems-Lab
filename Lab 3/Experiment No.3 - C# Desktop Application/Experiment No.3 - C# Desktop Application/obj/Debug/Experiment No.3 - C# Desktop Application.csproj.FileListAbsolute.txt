@@ -1,0 +1,10 @@
+C:\Users\JASMIN R. DY\source\repos\Experiment No.3 - C# Desktop Application\Experiment No.3 - C# Desktop Application\bin\Debug\Experiment No.3 - C# Desktop Application.exe.config
+C:\Users\JASMIN R. DY\source\repos\Experiment No.3 - C# Desktop Application\Experiment No.3 - C# Desktop Application\bin\Debug\Experiment No.3 - C# Desktop Application.exe
+C:\Users\JASMIN R. DY\source\repos\Experiment No.3 - C# Desktop Application\Experiment No.3 - C# Desktop Application\bin\Debug\Experiment No.3 - C# Desktop Application.pdb
+C:\Users\JASMIN R. DY\source\repos\Experiment No.3 - C# Desktop Application\Experiment No.3 - C# Desktop Application\obj\Debug\Experiment No.3 - C# Desktop Application.csproj.AssemblyReference.cache
+C:\Users\JASMIN R. DY\source\repos\Experiment No.3 - C# Desktop Application\Experiment No.3 - C# Desktop Application\obj\Debug\Experiment_No._3___C__Desktop_Application.Form1.resources
+C:\Users\JASMIN R. DY\source\repos\Experiment No.3 - C# Desktop Application\Experiment No.3 - C# Desktop Application\obj\Debug\Experiment_No._3___C__Desktop_Application.Properties.Resources.resources
+C:\Users\JASMIN R. DY\source\repos\Experiment No.3 - C# Desktop Application\Experiment No.3 - C# Desktop Application\obj\Debug\Experiment No.3 - C# Desktop Application.csproj.GenerateResource.cache
+C:\Users\JASMIN R. DY\source\repos\Experiment No.3 - C# Desktop Application\Experiment No.3 - C# Desktop Application\obj\Debug\Experiment No.3 - C# Desktop Application.csproj.CoreCompileInputs.cache
+C:\Users\JASMIN R. DY\source\repos\Experiment No.3 - C# Desktop Application\Experiment No.3 - C# Desktop Application\obj\Debug\Experiment No.3 - C# Desktop Application.exe
+C:\Users\JASMIN R. DY\source\repos\Experiment No.3 - C# Desktop Application\Experiment No.3 - C# Desktop Application\obj\Debug\Experiment No.3 - C# Desktop Application.pdb
