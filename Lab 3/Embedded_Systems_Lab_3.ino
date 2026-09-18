@@ -12,6 +12,6 @@ void setup() {
 void loop(){
   int light = analogRead(LDR);
   int motion = digitalRead(PIR);
-  Serial.print(light); Serial.print(","); Serial.println(motion); // tag data records with 'D'
+  Serial.print(light); Serial.print(","); Serial.println(motion);
   delay(200);
 }
